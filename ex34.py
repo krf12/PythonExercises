@@ -1,0 +1,10 @@
+animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']
+
+print "Animal : %s" % animals[1]
+print "Animal : %s" % animals[2]
+print "Animal : %s" % animals[0]
+print "Animal : %s" % animals[3]
+print "Animal : %s" % animals[4]
+print "Animal : %s" % animals[2]
+print "Animal : %s" % animals[5]
+print "Animal : %s" % animals[4]
